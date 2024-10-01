@@ -30,7 +30,7 @@ Installation -
     Clone this repository:
     bash
     git clone https://github.com/yourusername/CheckIPandDHCPrestart.git
-    cd Check-IP-DHCP-Renew
+    cd CheckIPandDHCPrestart
 
 
 Ensure the scripts have execution permission - 
