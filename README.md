@@ -28,25 +28,22 @@ Prerequisites -
 Installation - 
 
     Clone this repository:
-
     bash
+    git clone https://github.com/yourusername/CheckIPandDHCPrestart.git
+    cd Check-IP-DHCP-Renew
 
-git clone https://github.com/yourusername/CheckIPandDHCPrestart.git
-cd Check-IP-DHCP-Renew
 
-Ensure the scripts have execution permission:
-
+Ensure the scripts have execution permission - 
 bash
-
 chmod +x CheckIPandDHCPrestart.sh
 
-For Windows users, run the PowerShell script directly:
+For Windows users, run the PowerShell script directly - 
 
 powershell
 
 .\CheckIPandDHCPrestart.ps1
 
-Usage
+Usage - 
 This script lets you list all the network adapters and check if they are disconnted or working and restart them all. 
 
 License
